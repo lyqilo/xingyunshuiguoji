@@ -1,0 +1,156 @@
+{"frames": [
+
+{
+	"filename": "XYSGJ_Font10_0_,.png",
+	"frame": {"x":0,"y":0,"w":23,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":17},
+	"sourceSize": {"w":23,"h":17}
+},
+{
+	"filename": "XYSGJ_Font10_0_..png",
+	"frame": {"x":23,"y":0,"w":23,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":17},
+	"sourceSize": {"w":23,"h":17}
+},
+{
+	"filename": "XYSGJ_Font10_0_0.png",
+	"frame": {"x":46,"y":0,"w":23,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":17},
+	"sourceSize": {"w":23,"h":17}
+},
+{
+	"filename": "XYSGJ_Font10_0_1.png",
+	"frame": {"x":69,"y":0,"w":23,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":17},
+	"sourceSize": {"w":23,"h":17}
+},
+{
+	"filename": "XYSGJ_Font10_0_2.png",
+	"frame": {"x":92,"y":0,"w":23,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":17},
+	"sourceSize": {"w":23,"h":17}
+},
+{
+	"filename": "XYSGJ_Font10_0_3.png",
+	"frame": {"x":0,"y":17,"w":23,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":17},
+	"sourceSize": {"w":23,"h":17}
+},
+{
+	"filename": "XYSGJ_Font10_0_4.png",
+	"frame": {"x":23,"y":17,"w":23,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":17},
+	"sourceSize": {"w":23,"h":17}
+},
+{
+	"filename": "XYSGJ_Font10_0_5.png",
+	"frame": {"x":46,"y":17,"w":23,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":17},
+	"sourceSize": {"w":23,"h":17}
+},
+{
+	"filename": "XYSGJ_Font10_0_6.png",
+	"frame": {"x":69,"y":17,"w":23,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":17},
+	"sourceSize": {"w":23,"h":17}
+},
+{
+	"filename": "XYSGJ_Font10_0_7.png",
+	"frame": {"x":92,"y":17,"w":23,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":17},
+	"sourceSize": {"w":23,"h":17}
+},
+{
+	"filename": "XYSGJ_Font10_0_8.png",
+	"frame": {"x":0,"y":34,"w":23,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":17},
+	"sourceSize": {"w":23,"h":17}
+},
+{
+	"filename": "XYSGJ_Font10_0_9.png",
+	"frame": {"x":23,"y":34,"w":23,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":17},
+	"sourceSize": {"w":23,"h":17}
+},
+{
+	"filename": "XYSGJ_Font10_0_B.png",
+	"frame": {"x":46,"y":34,"w":23,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":17},
+	"sourceSize": {"w":23,"h":17}
+},
+{
+	"filename": "XYSGJ_Font10_0_H.png",
+	"frame": {"x":69,"y":34,"w":23,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":17},
+	"sourceSize": {"w":23,"h":17}
+},
+{
+	"filename": "XYSGJ_Font10_0_K.png",
+	"frame": {"x":92,"y":34,"w":23,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":17},
+	"sourceSize": {"w":23,"h":17}
+},
+{
+	"filename": "XYSGJ_Font10_0_M.png",
+	"frame": {"x":0,"y":51,"w":23,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":17},
+	"sourceSize": {"w":23,"h":17}
+},
+{
+	"filename": "XYSGJ_Font10_0_T.png",
+	"frame": {"x":23,"y":51,"w":23,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":17},
+	"sourceSize": {"w":23,"h":17}
+},
+{
+	"filename": "XYSGJ_Font10_0_WX.png",
+	"frame": {"x":46,"y":51,"w":23,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":17},
+	"sourceSize": {"w":23,"h":17}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "font10.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:274b0af5968f9ecc5fb87f86696727f1:7662382b27b8727005e5bf1a43f767e2:18dff81400ebac3d26ff867fe4037c9f$"
+}
+}

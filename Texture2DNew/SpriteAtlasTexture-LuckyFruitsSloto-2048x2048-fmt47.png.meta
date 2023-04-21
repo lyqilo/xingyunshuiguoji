@@ -1,0 +1,2940 @@
+fileFormatVersion: 2
+guid: f9cb64502317157418616c5d74e5bb13
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      89: 8900000
+    second: generatedCubemap
+  - first:
+      213: 21300000
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_0
+  - first:
+      213: 21300002
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_1
+  - first:
+      213: 21300004
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_2
+  - first:
+      213: 21300006
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_3
+  - first:
+      213: 21300008
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_4
+  - first:
+      213: 21300010
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_5
+  - first:
+      213: 21300012
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_6
+  - first:
+      213: 21300014
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_7
+  - first:
+      213: 21300016
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_8
+  - first:
+      213: 21300018
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_9
+  - first:
+      213: 21300020
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_10
+  - first:
+      213: 21300022
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_11
+  - first:
+      213: 21300024
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_12
+  - first:
+      213: 21300026
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_13
+  - first:
+      213: 21300028
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_14
+  - first:
+      213: 21300030
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_15
+  - first:
+      213: 21300032
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_16
+  - first:
+      213: 21300034
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_17
+  - first:
+      213: 21300036
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_18
+  - first:
+      213: 21300038
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_19
+  - first:
+      213: 21300040
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_20
+  - first:
+      213: 21300042
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_21
+  - first:
+      213: 21300044
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_22
+  - first:
+      213: 21300046
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_23
+  - first:
+      213: 21300048
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_24
+  - first:
+      213: 21300050
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_25
+  - first:
+      213: 21300052
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_26
+  - first:
+      213: 21300054
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_27
+  - first:
+      213: 21300056
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_28
+  - first:
+      213: 21300058
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_29
+  - first:
+      213: 21300060
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_30
+  - first:
+      213: 21300062
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_31
+  - first:
+      213: 21300064
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_32
+  - first:
+      213: 21300066
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_33
+  - first:
+      213: 21300068
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_34
+  - first:
+      213: 21300070
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_35
+  - first:
+      213: 21300072
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_36
+  - first:
+      213: 21300074
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_37
+  - first:
+      213: 21300076
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_38
+  - first:
+      213: 21300078
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_39
+  - first:
+      213: 21300080
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_40
+  - first:
+      213: 21300082
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_41
+  - first:
+      213: 21300084
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_42
+  - first:
+      213: 21300086
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_43
+  - first:
+      213: 21300088
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_44
+  - first:
+      213: 21300090
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_45
+  - first:
+      213: 21300092
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_46
+  - first:
+      213: 21300094
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_47
+  - first:
+      213: 21300096
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_48
+  - first:
+      213: 21300098
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_49
+  - first:
+      213: 21300100
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_50
+  - first:
+      213: 21300102
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_51
+  - first:
+      213: 21300104
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_52
+  - first:
+      213: 21300106
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_53
+  - first:
+      213: 21300108
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_54
+  - first:
+      213: 21300110
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_55
+  - first:
+      213: 21300112
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_56
+  - first:
+      213: 21300114
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_57
+  - first:
+      213: 21300116
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_58
+  - first:
+      213: 21300118
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_59
+  - first:
+      213: 21300120
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_60
+  - first:
+      213: 21300122
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_61
+  - first:
+      213: 21300124
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_62
+  - first:
+      213: 21300126
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_63
+  - first:
+      213: 21300128
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_64
+  - first:
+      213: 21300130
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_65
+  - first:
+      213: 21300132
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_66
+  - first:
+      213: 21300134
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_67
+  - first:
+      213: 21300136
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_68
+  - first:
+      213: 21300138
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_69
+  - first:
+      213: 21300140
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_70
+  - first:
+      213: 21300142
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_73
+  - first:
+      213: 21300144
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_75
+  - first:
+      213: 21300146
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_76
+  - first:
+      213: 21300148
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_77
+  - first:
+      213: 21300150
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_78
+  - first:
+      213: 21300152
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_79
+  - first:
+      213: 21300154
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_80
+  - first:
+      213: 21300156
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_81
+  - first:
+      213: 21300158
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_82
+  - first:
+      213: 21300160
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_83
+  - first:
+      213: 21300162
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_84
+  - first:
+      213: 21300164
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_85
+  - first:
+      213: 21300166
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_86
+  - first:
+      213: 21300168
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_87
+  - first:
+      213: 21300170
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_88
+  - first:
+      213: 21300172
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_89
+  - first:
+      213: 21300174
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_90
+  - first:
+      213: 21300176
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_91
+  - first:
+      213: 21300178
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_92
+  - first:
+      213: 21300180
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_93
+  - first:
+      213: 21300182
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_94
+  - first:
+      213: 21300184
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_95
+  - first:
+      213: 21300186
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_96
+  - first:
+      213: 21300188
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_97
+  - first:
+      213: 21300190
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_98
+  - first:
+      213: 21300192
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_99
+  - first:
+      213: 21300194
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_100
+  - first:
+      213: 21300196
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_101
+  - first:
+      213: 21300198
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_102
+  - first:
+      213: 21300200
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_103
+  - first:
+      213: 21300202
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_104
+  - first:
+      213: 21300204
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_105
+  - first:
+      213: 21300206
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_106
+  - first:
+      213: 21300208
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_107
+  - first:
+      213: 21300210
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_108
+  - first:
+      213: 21300212
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_109
+  - first:
+      213: 21300214
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_110
+  - first:
+      213: 21300216
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_111
+  - first:
+      213: 21300218
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_112
+  - first:
+      213: 21300220
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_113
+  - first:
+      213: 21300222
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_114
+  - first:
+      213: 21300224
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_115
+  - first:
+      213: 21300226
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_116
+  - first:
+      213: 21300228
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_117
+  - first:
+      213: 21300230
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_71
+  - first:
+      213: 21300232
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_72
+  - first:
+      213: 21300234
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_74
+  - first:
+      213: 21300236
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_118
+  - first:
+      213: 21300238
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_119
+  - first:
+      213: 21300240
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_120
+  - first:
+      213: 21300242
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_121
+  - first:
+      213: 21300244
+    second: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_122
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1927
+        width: 169
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d41820cd91515f4ca9db8805be16655
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_1
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1808
+        width: 172
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba661ea8089b45640b3bf031215d3898
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_2
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1884
+        width: 180
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61aee7a1cfa493e4797c784707615b1a
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_3
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1811
+        width: 157
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5283d509fbff4408cdc0a622322565
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_4
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 1868
+        width: 181
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf31cb0c5fed2e4783881a7af0e06e1
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1748
+        width: 152
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5921947b7fe6c429cd41c7257f682d
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1796
+        width: 156
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7223ba847e711f468f339207c364f33
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_7
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1796
+        width: 125
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23e5eba7908ff742af5541a236d3eaa
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_8
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1676
+        width: 164
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d031a0ddd9b39704eaaee007a2c34db1
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_9
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1744
+        width: 119
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb655b71e070154381736308dbe7412
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_10
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1744
+        width: 159
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3848fadd056cb5946b75d6ed7d4222f3
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_11
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1772
+        width: 163
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3498a69f1bf808546a4554014b1a1e6b
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_12
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1748
+        width: 162
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28312589af770c47a0680c4e3ca6e57
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 128
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107b4f308f0a6e040bd54806169e0c75
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1644
+        width: 172
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edd5dec33d72d448a33eda216c79b5c
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_15
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1652
+        width: 152
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0169e38774e0f64fa5fe290d50e48f4
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_16
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1696
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d65a152dfefb164987053155eee0527
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1615
+        width: 156
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820b68fe43a3720458c32716c3ac4bb8
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_18
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1444
+        width: 140
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ffc0af64f041d40899c59a6ed7e790
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_19
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 1637
+        width: 171
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4eea5af64ca3840bfcaeeae05002d8
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1488
+        width: 152
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206fe5fbbb7e7c342bf81a18b4334a9b
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_21
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1492
+        width: 119
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1f10d961a3f1c4dad44685a0cc9440
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_22
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1528
+        width: 140
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee01eeb652648f047b53a26e2e65a6f9
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_23
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1540
+        width: 143
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa7fd30961e61b4dabdffddd3e4d1c5
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_24
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1443
+        width: 460
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b317ed84238364c998e26b1cbfa2f6
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_25
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1396
+        width: 144
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60b83c429b29044fa6017b27f54db4f
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_26
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1488
+        width: 140
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803c19a68ad06d94b8b2ef589c3a6f96
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_27
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1359
+        width: 151
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1283979e017bcdd44b49d440cf9a41e5
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1148
+        width: 231
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547302b508d79c8438d293682b7746d0
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_29
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1356
+        width: 326
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052931019dc123d47be3d082f9df5ecc
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_30
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1392
+        width: 152
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edd9a2e3089e6b48a2d92e66f2614e0
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_31
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1316
+        width: 321
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a2120a38e6b1b47b68e98223f54e98
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_32
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1315
+        width: 152
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39d37d6024e0e04d95497482b680ea6
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_33
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1227
+        width: 163
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb38c54eb66cf64a9d5dc6ca3341305
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_34
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1260
+        width: 153
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138623bc4d751954daef0eac2a0146ce
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_35
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1293
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75f335f99eb8e247a831c4d4227859c
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_36
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1252
+        width: 152
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47acd4b5753307e46ad374f3ce1b8646
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_37
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1215
+        width: 114
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d99be7a919f384e8ef1852bd79c9a9
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_38
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1215
+        width: 168
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d079f402f5a807f49b9c4d84acc5be97
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_39
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1276
+        width: 154
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859e9a0db7e1d6b4aae4974952dab154
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_40
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1080
+        width: 494
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54df7d830747a6040bcd97ed85170ef2
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_41
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1180
+        width: 153
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26af72aeb48731c47bd2cd867705ef5c
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_42
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1236
+        width: 128
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975a8771b945e9f4385dff599793c985
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_43
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1224
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c97b2f94d176341aa4a7da017f73bb
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_44
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1224
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5713bdc288a82d447b86201c715b6067
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_45
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1108
+        width: 144
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0a0e3715fd8cc40ac833b8747a1c1b
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_46
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1116
+        width: 170
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3ed260048a39648ab164fd52d2ce6f
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_47
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1084
+        width: 147
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c649df19b2ecd9c48aa7324c7af673f4
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_48
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1096
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d751205beaca30a4a978d83dd7307118
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_49
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1079
+        width: 153
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa47f05ec71e63f4e98a14ad0a1340ca
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_50
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1080
+        width: 144
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4aa987685248fa48951985db27255fc
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_51
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1203
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6b299dc1ecbd64aaf9ad79a7747514
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 888
+        width: 256
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaef4bbfbad15804f978ccc43d827776
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_53
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1115
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecdedc4bbfbaae47bb8aac070cda7e4
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_54
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1012
+        width: 333
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d2bcb4614af4c42af6bb3317855ff7
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_55
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 940
+        width: 334
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71bc3d574b37b3498dd884639bb64e3
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_56
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 964
+        width: 156
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93c00acf84d46143b5e2b46ff0a3d63
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_57
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 984
+        width: 125
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcae41ad36e07e47bf66651fd8dcd12
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_58
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 986
+        width: 153
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53e5ecf10e2c584b8d85a9dd5407265
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_59
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 986
+        width: 161
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca250f132869c1243b0d4acb7cb26be4
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_60
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 984
+        width: 172
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c28af8b8cd658c43b7021f5ae7a51ff
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_61
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 880
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbaa3ca81aa65dc42a9f7edaa7efaf85
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_62
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 886
+        width: 170
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c902119f110defa42b96323fa5d9b987
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_63
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 721
+        width: 192
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da69e63b0247124eba0cb68ef7771f7
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_64
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 960
+        width: 122
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91006ceced27fdc4dbd94a1e47b265f5
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_65
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 892
+        width: 68
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdee016c98d9da4db3c53b1087cf29e
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_66
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 629
+        width: 365
+        height: 355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82ad6e1217045146b6f027dabb534ae
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_67
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 721
+        width: 380
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84881d10463d13e4fa8f0df19b4face2
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_68
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 876
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802709a51b0f37746b812dde044a164f
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_69
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 920
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24efa9a8e38673b4dbf78a737abf5a4d
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_70
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 908
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d33732f422499441820509a92bf38ba
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_73
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 508
+        width: 1168
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c0364836eedd64981b69952237be2e
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_75
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 652
+        width: 130
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874a6409e6fb99c4d81e5be3e7c398bc
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 179
+        height: 802
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a531cbdd5a743134cbdfb76bc68ca45a
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_77
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 651
+        width: 169
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8be7bd0396abe4f8432ce0a79b50ed
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_78
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 340
+        width: 306
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89611840242942a44848051ce8c6161f
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_79
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 316
+        width: 306
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b883efd7d77aef44a0b151971140123
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_80
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 388
+        width: 214
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d4ba18ee0adc248aeccc59547c9bf5
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_83
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 416
+        width: 210
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1496d0ff09dfb4bb0b8f0d1a22ea76
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_84
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 408
+        width: 162
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac810732535a92469ec929a1894ad44
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_85
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 408
+        width: 136
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bde1e6f68e79a4f8b6ebbb8818a0be
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_86
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 460
+        width: 204
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e8c43834123cd41b8d31807c93c332
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_89
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 418
+        width: 204
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be70ec9db11f7eb49864b1e89e1ee577
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_90
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 384
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b140607eb66ea3b4fb687d4c61eeab89
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_91
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 377
+        width: 204
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4db636e60457194e822cb4a7c9ffffe
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_92
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 314
+        width: 210
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086c274fcf410754798a8e2c8aa36def
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_93
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 201
+        width: 290
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1e1e04d9de2064780b3d8d3997ccb3
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_94
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 376
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f1d90cb05869947b6c541c358390d7
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_95
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 144
+        width: 279
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e2188d5c21f1e488e9f3a66327f86b
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_97
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 293
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4837d3305043e49b28914eae08f03d
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_98
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 240
+        width: 138
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1d443abd82e6447ae00c0c71f925d6
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_99
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 2
+        width: 305
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846a9af8c8d693e40b1f4ad7356fbf0e
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_101
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 252
+        width: 204
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef8801b2f15efa4b8aaa97b8a7d4f59
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_102
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 211
+        width: 210
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1429104f95d373747896bf8e53727a66
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_104
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 208
+        width: 204
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38960fe9370f00b48946d183c7ee941f
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_105
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 156
+        width: 92
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b766db326c4a0a4caca7ff0fe549a5c
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_106
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 104
+        width: 194
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e87789c37cd184ca87df48bca4343c
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_107
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 0
+        width: 680
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54486247c4cc420438bb0a014a8071ca
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_108
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459cb21a9f038d041855758207be5482
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_109
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 74
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccb06e850dc2aa439471a504f2cc7f4
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_110
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 82
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bf313bb1b56f94ca43e8b2a8fe5fd3
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_111
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 81
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e131e7b003b33e488206ec94a9853fc
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_112
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 37
+        width: 154
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d45b02396527cb409f189945935ca8f
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_113
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 0
+        width: 136
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabca4692ec082e469ed23dd5e42f485
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_114
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 66
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75ef49221b8b264f8c483702d47567b
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_115
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 15
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e33ea2926c6f1142ade36afa54b0574
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_116
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 19
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd87f4bd4cea86846b959c101f398ab4
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_117
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 0
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d499910796e732f4b8817af7620d59e8
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_71
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1872
+        width: 143
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c4224559b74924cbfb98a8dcbfd4d3
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_72
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1874
+        width: 178
+        height: 137
+      alignment: 9
+      pivot: {x: 0.56437355, y: 0.37454203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a5f0f525e17024db712f10f9c0de8f
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_74
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1902
+        width: 168
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44caa42e6d0e74a4e841aa375122846c
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_118
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1771
+        width: 143
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2961e6735b297dd41b7ba2897ea261bb
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_119
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1732
+        width: 175
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c298846911bbdb4092e5b54c94b52d3
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_120
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 1627
+        width: 166
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea2cf065dbd45646856281c187340ca
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_121
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1579
+        width: 130
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc10b781dcf46d4bb77b7d20485d398
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-LuckyFruitsSloto-2048x2048-fmt47_122
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1502
+        width: 159
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90a5c2f909ab34408e7412543b867ac
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: aa2f644920b5bd941b106d80675578d9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
